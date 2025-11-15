@@ -31,7 +31,7 @@ Happy Pawning!
 Simply install to your project:
 
 ```bash
-sampctl install Nicoo/ugmp_include
+sampctl install Nicoo34/ugmp_include
 ```
 
 Include in your code and begin using the library:
