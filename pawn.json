@@ -4,7 +4,7 @@
     "tag": "1.0.0",
     
 
-    "include_path": "include", 
+    "include_path": "includes", 
     
   
     "dependencies": [
